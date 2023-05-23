@@ -4,3 +4,4 @@
 *uso do comando git 
 * comando git push
 * comandao git pull
+* comando git fatch
