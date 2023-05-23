@@ -1,3 +1,5 @@
 #curso digital: git/versionamento
 ##salvado git
 ## nova alteração 
+*uso do comando git 
+* comando git push
